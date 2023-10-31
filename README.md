@@ -13,4 +13,4 @@
 
 <a href="https://discordapp.com/users/704849464204066867" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="" height="30" width="40" /> @kogo101</a>
 <br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/870936028108705803)](https://discord.com/users/870936028108705803)
+[![Discord Presence](https://lanyard.cnrad.dev/api/704849464204066867)](https://discord.com/users/704849464204066867)
