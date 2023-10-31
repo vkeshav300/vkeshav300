@@ -10,7 +10,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vkeshav300&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![Counter](https://komarev.com/ghpvc/?username=vkeshav300)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
-</p>
+<img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="" height="30" width="40" /> @kogo101
