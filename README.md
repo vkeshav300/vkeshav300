@@ -5,8 +5,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started learning coding when I was 7 years old.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrcoder0167&layout=compact)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkeshav300&show_icons=true&theme=radical)
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=vkeshav300&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vkeshav300&theme=radical&hide_border=true)](https://git.io/streak-stats)
 <br>
 ![Counter](https://komarev.com/ghpvc/?username=vkeshav300)
