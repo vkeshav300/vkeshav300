@@ -12,5 +12,3 @@
 ![Counter](https://komarev.com/ghpvc/?username=vkeshav300)
 
 <a href="https://discordapp.com/users/704849464204066867" target="blank" style="text-decoration: none; color: #FFFFFF"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="" height="30" width="40" /> @kogo101</a>
-<br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/704849464204066867)](https://discord.com/users/704849464204066867)
