@@ -1,9 +1,9 @@
 ### Why Hello There 👋
 <details>
   <summary>About Me</summary>
-  - 🔭 I’m currently working on [CPM](https://github.com/vkeshav300/cpm).
-  - 🌱 I’m on a journey to master C++.
-  - 😄 Pronouns: He/Him.
+  - 🔭 I’m currently working on [CPM](https://github.com/vkeshav300/cpm).<br>
+  - 🌱 I’m on a journey to master C++.<br>
+  - 😄 Pronouns: He/Him.<br>
   - ⚡ Fun fact: I started learning coding when I was 7 years old.
 </details>
 
