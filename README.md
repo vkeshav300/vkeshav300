@@ -11,8 +11,8 @@
 
 
 <details>
-  <center>
   <summary>Contact Me</summary>
+  <center>
   <a href="https://discordapp.com/users/704849464204066867" target="blank" style="text-decoration: none; color: #FFFFFF"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="" height="30" width="40" /></a> @kogo101
   </center>
 </details>
