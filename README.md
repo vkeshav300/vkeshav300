@@ -1,19 +1,21 @@
 ### Why Hello There 👋
 <details>
   <summary>About Me</summary>
-  - 🔭 I’m currently working on [CPM](https://github.com/vkeshav300/cpm).\n
-  - 🌱 I’m on a journey to master C++.\n
-  - 😄 Pronouns: He/Him.\n
-  - ⚡ Fun fact: I started learning coding when I was 7 years old.\n
+  <ul>
+  <li>🔭 I’m currently working on [CPM](https://github.com/vkeshav300/cpm).</li>
+  <li>🌱 I’m on a journey to master C++.</li>
+  <li>😄 Pronouns: He/Him.</li>
+  <li>⚡ Fun fact: I started learning coding when I was 7 years old.</li>
+  </ul>
 </details>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkeshav300&theme=radical&layout=compact)
 
 <details>
   <summary>Contact Me</summary>
-  <center>
-  <a href="https://discordapp.com/users/704849464204066867" target="blank" style="text-decoration: none; color: #FFFFFF"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="" height="30" width="40" /></a> @kogo101\n
-  </center>
+  <ul>
+  <li><a href="https://discordapp.com/users/704849464204066867" target="blank" style="text-decoration: none; color: #FFFFFF"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="" height="30" width="40"></img></a> @kogo101</li>
+  </ul>
 </details>
 
 <!--
