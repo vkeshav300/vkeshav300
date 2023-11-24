@@ -1,15 +1,12 @@
 ### Why Hello There 👋
-
-
-- 🔭 I’m currently working on [CPM](https://github.com/vkeshav300/cpm)
-- 🌱 I’m currently mastering C++
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started learning coding when I was 7 years old.
-
+<details>
+  <summary>About Me</summary>
+  - 🔭 I’m currently working on [CPM](https://github.com/vkeshav300/cpm).
+  - 🌱 I’m on a journey to master C++.
+  - 😄 Pronouns: He/Him.
+  - ⚡ Fun fact: I started learning coding when I was 7 years old.
+</details>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkeshav300&theme=radical&layout=compact)
-
-
-
 <details>
   <summary>Contact Me</summary>
   <center>
