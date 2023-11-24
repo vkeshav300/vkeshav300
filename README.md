@@ -6,7 +6,9 @@
   - 😄 Pronouns: He/Him.
   - ⚡ Fun fact: I started learning coding when I was 7 years old.
 </details>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkeshav300&theme=radical&layout=compact)
+
 <details>
   <summary>Contact Me</summary>
   <center>
