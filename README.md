@@ -1,22 +1,11 @@
 ### Why Hello There 👋
-<details>
-  <summary>About Me</summary>
-  <ul>
-  <li>🔭 I’m currently working on [CPM](https://github.com/vkeshav300/cpm).</li>
-  <li>🌱 I’m on a journey to master C++.</li>
-  <li>😄 Pronouns: He/Him.</li>
-  <li>⚡ Fun fact: I started learning coding when I was 7 years old.</li>
-  </ul>
-</details>
+I am currently working on **2** major projects!
+The first one is [Let's Assist](https://github.com/rrcoder0167/lets-assist)!
+The second one is [CPM (C/C++ Project Manager)](https://github.com/vkeshav300/cpm)!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkeshav300&theme=radical&layout=compact)
 
-<details>
-  <summary>Contact Me</summary>
-  <ul>
-  <li><a href="https://discordapp.com/users/704849464204066867" target="blank" style="text-decoration: none; color: #FFFFFF"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="" height="30" width="40"></img></a> @kogo101</li>
-  </ul>
-</details>
+You won't find much else about me here...
 
 <!--
 <br>
