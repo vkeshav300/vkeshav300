@@ -1,7 +1,6 @@
 ### Why Hello There 👋
-I am currently working on **2** major projects!
-The first one is [Let's Assist](https://github.com/rrcoder0167/lets-assist)!
-The second one is [CPM (C/C++ Project Manager)](https://github.com/vkeshav300/cpm)!
+I am currently working on **1** major project!
+- [CPM (C/C++ Project Manager)](https://github.com/vkeshav300/cpm)!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkeshav300&theme=radical&layout=compact)
 
