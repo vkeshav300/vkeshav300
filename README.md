@@ -3,6 +3,8 @@ I am currently working on **1** major project!
 - [CPM (C/C++ Project Manager)](https://github.com/vkeshav300/cpm)!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkeshav300&theme=radical&layout=compact)
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vkeshav300&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 You won't find much else about me here...
 
