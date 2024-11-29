@@ -2,10 +2,10 @@
   <h1>Why Hello There 👋</h1>
   <p>Welcome to my GitHub page!</p>
   
-  <h3>Languages I Have Used</h3>
+  <h3>Coding Languages I Have Used</h3>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,lua" /></a>
   
-  <h3>Softwares / Frameworks I Have Used</h3>
+  <h3>Softwares / Frameworks / Libraries I Have Used</h3>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cmake,git,github,blender,bun,nextjs,robloxstudio,tailwind,vscode,django,bootstrap" /></a>
   
   <h3>General Stats</h3>
