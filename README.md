@@ -6,7 +6,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,lua" /></a>
   
   <h3>Softwares / Frameworks / Libraries I Have Used</h3>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cmake,git,github,blender,bun,nextjs,robloxstudio,tailwind,vscode,django,bootstrap" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cmake,git,github,blender,bun,nextjs,robloxstudio,tailwind,vscode,django,bootstrap,arduino" /></a>
   
   <h3>General Stats</h3>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vkeshav300&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
