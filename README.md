@@ -3,7 +3,7 @@
   <p>Welcome to my GitHub page!</p>
   
   <h3>Coding Languages I Have Used</h3>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,lua" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,lua,latex" /></a>
   
   <h3>Softwares / Frameworks / Libraries I Have Used</h3>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cmake,git,github,blender,bun,nextjs,robloxstudio,tailwind,vscode,django,bootstrap,arduino" /></a>
