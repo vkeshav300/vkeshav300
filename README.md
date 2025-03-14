@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Why Hello There 👋</h1>
   <p>Welcome to my GitHub page!</p>
+
+  <h2>Check out <a href="https://github.com/vkeshav300/cpm">CPM (C/C++ Project Manager)</a>, an open source command line tool to help you develop your C/C++ projects.</h2>
   
   <h3>Coding Languages I Have Used</h3>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,lua,latex" /></a>
